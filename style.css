@@ -1,0 +1,12 @@
+body {font-family: "Segoe UI";}
+h1 {
+  font-size: 32;
+  text-align: center;
+}
+p {
+  font-size: 10;
+  text-align: justify;
+}
+em {}
+strong {}
+address {}
