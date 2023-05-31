@@ -1,14 +1,14 @@
 body {font-family: "Segoe UI";}
 h1 {
-  font-size: 32;
+  font-size: 32px;
   text-align: center;
 }
 p {
-  font-size: 10;
+  font-size: 10px;
   text-align: justify;
 }
 .picture{text-align: center;}
 p.greeting{
-  font-size: 14;
+  font-size: 24px;
   font-family: "Segoe UI Black";
 }
