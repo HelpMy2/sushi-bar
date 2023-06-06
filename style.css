@@ -21,7 +21,7 @@ li {
   font-size: 10px;
   text-align: justify;
 }
-img.picture{text-align: center !important;}
+.picture{text-align: center !important;}
 p.greeting{
   font-size: 24px;
   font-family: "Segoe UI Black";
