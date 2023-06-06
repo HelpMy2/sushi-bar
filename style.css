@@ -5,24 +5,14 @@
 */
 
 body {font-family: "Segoe UI";}
-h1 {
+
+header{
   font-size: 32px;
-  text-align: center;
+  text-align: center !important;
 }
-p {
+main{
   font-size: 10px;
-  text-align: justify;
-}
-ul {
-  font-size: 10px;
-  text-align: justify;
-}
-li {
-  font-size: 10px;
-  text-align: justify;
-}
-header{text-align: center !important;}
-main{}
+  text-align: justify;}
 footer{
   font-size: 24px;
   font-family: "Segoe UI Black";
