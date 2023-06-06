@@ -21,9 +21,11 @@ li {
   font-size: 10px;
   text-align: justify;
 }
-.picture{text-align: center !important;}
-p.greeting{
+header{text-align: center !important;}
+main{}
+footer{
   font-size: 24px;
   font-family: "Segoe UI Black";
+  text-align: right;
 }
-em {}
+
