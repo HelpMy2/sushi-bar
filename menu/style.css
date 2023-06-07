@@ -1,1 +1,24 @@
+/*
+Вы кто такие?
+Я вас не звал!
+Идите на...
+*/
 
+body {font-family: "Segoe UI";}
+
+header{
+  font-size: 32px;
+  text-align: center !important;
+}
+main{
+  font-size: 10px;
+  text-align: justify;}
+footer{
+  font-size: 10px;
+  font-family: "Segoe UI Black";
+  text-align: right;
+}
+table.pricelist th, table.pricelist td {
+  border: green thin solid;
+  padding: 4px
+}
