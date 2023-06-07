@@ -19,6 +19,6 @@ footer{
   text-align: right;
 }
 table.pricelist th, table.pricelist td {
-  border: green thin solid;
+  border: thin solid;
   padding: 4px
 }
