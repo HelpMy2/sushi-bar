@@ -22,3 +22,13 @@ table.pricelist th, table.pricelist td {
   border: thin solid;
   padding: 4px
 }
+nav div{
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;  
+}
+footer{
+  font-size: 24px;
+  font-family: "Segoe UI Black";
+  text-align: right;
+}
